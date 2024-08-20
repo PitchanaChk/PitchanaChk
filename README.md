@@ -68,12 +68,6 @@
 
 ###
 
-<div align="left">
-  <img height="150" src="https://github.com/PitchanaChk/PitchanaChk/blob/main/assets/Microsoft-HateMonday-FinalTeam.jpg"  />
-</div>
-
-###
-
 <h2 align="left">Social</h2>
 
 ###
