@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img height="300" src="https://github.com/PitchanaChk/PitchanaChk/blob/main/assets/dataScientist.JPG"  />
-</div>
+
 
 ###
 
