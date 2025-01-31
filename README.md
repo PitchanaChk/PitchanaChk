@@ -76,6 +76,10 @@
   <a href="https://www.linkedin.com/in/pitchana-chaikaew-bb35342a5" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+    <a href="https://www.salesforce.com/trailblazer/pitchanachaikaew" target="_blank">
+    <img src="https://github.com/PitchanaChk/PitchanaChk/blob/main/assets/IMG_2979.png" width="40" height="40" alt="trailhead logo" />
+  </a>
+
 </div>
 
 ###
